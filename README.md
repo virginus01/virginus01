@@ -1,5 +1,3 @@
-Here's an enhanced version of your GitHub profile README:
-
 ```markdown
 # 👋 Hi welcome, I'm Virginus Alajekwu Chinagbaogu, but you can call me Don Solace.
 
