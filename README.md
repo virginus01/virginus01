@@ -1,5 +1,5 @@
 ```markdown
-# 👋 Hi welcome, I'm Virginus Alajekwu Chinagbaogu, but you can call me Don Solace.
+# 👋 Hi welcome, I'm Virginus Alajekwu Chinagbaogu.
 
 - 💻 I'm a passionate software developer and coding enthusiast,
 - 💞️ I love crafting innovative solutions with a focus on PHP/CodeIgniter, Dart/Flutter, and more.
