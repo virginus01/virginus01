@@ -3,7 +3,8 @@ Here's an enhanced version of your GitHub profile README:
 ```markdown
 # 👋 Hi there, I'm Virginus Alajekwu Chinagbaogu, but you can call me Don Solace.
 
-I'm a passionate software developer and coding enthusiast, and I love crafting innovative solutions with a focus on PHP/CodeIgniter, Dart/Flutter, and more.
+- 💻 I'm a passionate software developer and coding enthusiast,
+- 💞️ I love crafting innovative solutions with a focus on PHP/CodeIgniter, Dart/Flutter, and more.
 
 ### 🚀 Here's a bit about me:
 
@@ -14,5 +15,5 @@ I'm a passionate software developer and coding enthusiast, and I love crafting i
 ### 💬 Get in touch:
 
 - 📧 You can reach me at info.vsolace[at]gmail.com.
-- 📫 Feel free to explore my full Holopin profile to see more of my work and interests. [![Holopin](https://holopin.me/virginus01)](https://holopin.io/@virginus01)
 ```
+[![An image of @virginus01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/virginus01)](https://holopin.io/@virginus01)
