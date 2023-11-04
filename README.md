@@ -14,4 +14,4 @@
 
 - 📧 You can reach me at info.vsolace[at]gmail.com.
 ```
-[![An image of @virginus01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/virginus01)](https://holopin.io/@donsolace01#badges)
+[![An image of @donsolace01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donsolace01)](https://holopin.io/@donsolace01#badges)
